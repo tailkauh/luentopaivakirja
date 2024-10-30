@@ -1,0 +1,2 @@
+# luentopaivakirja
+Ohjelmistotuotanto-kurssin luentopäiväkirja
